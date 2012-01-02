@@ -1,0 +1,15 @@
+You are a stickpicker:
+
+ XXXXX 
+X     X
+X O O X
+X     X
+ XXXXX
+   X
+XXXXXXX
+X  X  X
+  X X
+XX   XX
+
+StickPickers pick up sticks! On the screen is a stickpicker(you),
+and a stick. Pick up the sticks! Repeat until the score says 'WIN'
