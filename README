@@ -1,0 +1,5 @@
+Pickin-Duino!
+
+Pickin-Duino is a pickin-sticks implementation on Arduino using
+the TVout library. Currently it plays itself, as there is not
+controller support.
